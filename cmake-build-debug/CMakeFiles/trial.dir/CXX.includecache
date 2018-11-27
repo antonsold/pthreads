@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anton/CLionProjects/trial/main.cpp
+algorithm
+-
+cassert
+-
+chrono
+-
+ctime
+-
+iostream
+-
+pthread.h
+-
+random
+-
+
